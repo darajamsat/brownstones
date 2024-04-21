@@ -16,9 +16,3 @@ updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
 share: true
 layout: layouts/litnote
 ---
-
-![{{title}}-cover]({{coverUrl}})
-
-
-# {{title}}
-by {{ author }}
