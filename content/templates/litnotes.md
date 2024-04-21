@@ -1,5 +1,4 @@
 ---
-tag: 📚Book
 title: "{{title}}"
 rating: ★★★★★
 status: unread
